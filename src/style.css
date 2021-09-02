@@ -1,6 +1,6 @@
 @font-face {
     font-family: creamcake;
-    src: url(./Cream\ Cake.otf);
+    src: url(./Font\ /Cream\ Cake.otf);
 }
 *{
     box-sizing: border-box;
@@ -16,7 +16,7 @@ main{
     position: relative;
 }
 .bg-img{
-    background-image: url(../Photos/background\ .jpg);
+    background-image: url(./Photos/background\ .jpg);
     height: 100vh;
     background-position: center center;
     background-size: cover;
@@ -107,7 +107,8 @@ a{
 }
 .review-img{
     background-color: aliceblue;
-    background-image: url(../Photos/Reviews1.jpeg);
+    /* background-image: url(../Photos/Reviews1.jpeg); */
+    background-image: url(./Photos/Reviews1.jpeg);
     width: 100%;
     height: inherit;
     background-repeat: no-repeat;
@@ -157,7 +158,8 @@ a{
     text-align: center;
 }
 .about-img{
-    background-image: url(../Photos/About1.jpeg);
+    /* background-image: url(../Photos/About1.jpeg); */
+    background-image: url(./Photos/About1.jpeg);
     width: 480px;
     height: 80vh;
     position: absolute;
