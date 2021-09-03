@@ -1,3 +1,5 @@
+// import '../style.css';
+// import '../src/style.css';
 function homeContent(){
     const main = document.getElementById("main");
     let div = document.createElement("div");

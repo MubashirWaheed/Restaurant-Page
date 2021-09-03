@@ -1,10 +1,15 @@
+// import './style.css';
+// import '../src/style.css';
+// import { homeContent, removeIntroContent } from './home.js';
 import { homeContent, removeIntroContent } from './Modules/home.js';
 import { aboutContent, removeAboutContent } from './Modules/about.js';
 import { reviewsContent, removeReviewContent } from './Modules/reviews.js';
 
-import './style.css';
-// import '../src/style.css';
 
+// import './Photos/About1.jpeg';
+// import './Photos/background.jpg';
+// import './Photos/Reviews1.jpeg';
+// import './Font/CreamCake.otf';
 
 
 const home = document.getElementById("home-btn");
