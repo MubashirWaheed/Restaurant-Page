@@ -17,7 +17,7 @@ main{
     position: relative;
 }
 .bg-img{
-    background-image: url(./Photos/background\ .jpg);
+    background-image: url(./Photos/background.jpg);
     height: 100vh;
     background-position: center center;
     background-size: cover;
