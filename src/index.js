@@ -1,9 +1,6 @@
-// import {homeContent, removeIntroContent} from '../src/Modules /home.js';
-// import { reviewsContent , removeReviewContent } from '../src/Modules /reviews.js';
-// import { aboutContent, removeAboutContent } from '../src/Modules /about.js';
-import { homeContent, removeIntroContent } from './Modules /home.js';
-import { aboutContent, removeAboutContent } from './Modules /about.js';
-import { reviewsContent, removeReviewContent } from './Modules /reviews.js';
+import { homeContent, removeIntroContent } from './Modules/home.js';
+import { aboutContent, removeAboutContent } from './Modules/about.js';
+import { reviewsContent, removeReviewContent } from './Modules/reviews.js';
 
 import './style.css';
 // import '../src/style.css';
