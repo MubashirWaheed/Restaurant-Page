@@ -1,8 +1,6 @@
 @font-face {
     font-family: creamcake;
-    src: url(./Font/CreamCake.otf) format('otf');
-    /* src: url(./Font/Cream\ Cake.otf); */
-    /* src: url(./Font\ /Cream\ Cake.otf); */
+    src: url(./Font/CreamCake.otf);
 }
 *{
     box-sizing: border-box;

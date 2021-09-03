@@ -1,5 +1,6 @@
-// import '../style.css'
+// import 'style.css'
 // import '../src/style.css';
+
 function aboutContent(){
     const main = document.getElementById("main");
     
